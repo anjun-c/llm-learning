@@ -1,0 +1,5 @@
+
+# Local environment configuration - never published
+.env
+.env.*
+!.env.example
